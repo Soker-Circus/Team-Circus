@@ -127,7 +127,7 @@ export const Contact = (props) => {
                 <ul>
                   <li>
                     <a href={props.data ? props.data.facebook : "/"}>
-                      <i className="fa fa-facebook"></i>
+                      <i className="fa fa-instagram"></i>
                     </a>
                   </li>
                   <li>
@@ -149,10 +149,10 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
-            </a>
+            &copy; 2023 Team Circus. Designed and Developed by {"Logesh"}
+            {/* <a href="http://www.templatewire.com" rel="nofollow">
+              Team Circus
+            </a> */}
           </p>
         </div>
       </div>
