@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Team-Circus/static/css/main.ae42ac5f.css",
+    "main.js": "/Team-Circus/static/js/main.361accae.js",
+    "index.html": "/Team-Circus/index.html",
+    "main.ae42ac5f.css.map": "/Team-Circus/static/css/main.ae42ac5f.css.map",
+    "main.361accae.js.map": "/Team-Circus/static/js/main.361accae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.361accae.js"
+  ]
+}
